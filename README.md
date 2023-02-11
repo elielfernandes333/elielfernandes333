@@ -6,7 +6,7 @@
 
 -💞️ I’m build a important website
 
--🎓 Science and Technology - UFRN / Computer Engineering
+-🎓 Science and Technology / Computer Engineering - UFRN 
 
 -📧 filhoeliel567@gmail.com
 

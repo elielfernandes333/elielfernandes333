@@ -1,6 +1,8 @@
 ### Olá, eu sou o Eliel Fernandes 🤙
 
--👀 I’m interested in front-end
+-👀 I’m studying front-end(FreeCodeCamp)
+
+-🐱‍👤 I'm learning C (CS50-Harvard)
 
 -🌱 I’m currently learning science data
 

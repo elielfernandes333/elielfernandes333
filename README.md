@@ -1,8 +1,8 @@
 ### Olá, eu sou o Eliel Fernandes 🤙
 
--👀 I’m studying front-end(FreeCodeCamp)
+-👀 I’m studying front-end(HTML, CSS e Javascript para Desenvolvedores Web - Coursera - Johns Hopkins University)
 
--🐱‍👤 I'm learning C (CS50-Harvard)
+-🐱‍👤 I'm learning Python (PY4E - Coursera - University of Michigan)
 
 -🌱 I’m currently learning science data
 
@@ -10,7 +10,7 @@
 
 -🎓 Science and Technology / Computer Engineering - UFRN 
 
--📧 filhoeliel567@gmail.com
+-📧 eliel.filho.705@ufrn.edu.br
 
 <BLACKBOX
 

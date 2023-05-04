@@ -1,5 +1,7 @@
 ### Olá, eu sou o Eliel Fernandes 🤙
 
+-🎓 Science and Technology / Computer Engineering - UFRN 
+
 -👀 I’m studying front-end(HTML, CSS e Javascript para Desenvolvedores Web - Coursera - Johns Hopkins University)
 
 -🐱‍👤 I'm learning Python (PY4E - Coursera - University of Michigan)
@@ -8,7 +10,7 @@
 
 -💞️ I’m build a important website
 
--🎓 Science and Technology / Computer Engineering - UFRN 
+
 
 -📧 eliel.filho.705@ufrn.edu.br
 

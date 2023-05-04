@@ -1,4 +1,4 @@
-### Olá, eu sou o Eliel Fernandes 🤙
+### Olá, eu sou o Eliel Fernandes(eNiKov) 🤙
 
 -🎓 Science and Technology / Computer Engineering - UFRN 
 

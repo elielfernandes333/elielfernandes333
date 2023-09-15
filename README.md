@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 - 👨‍🎓 Atualmente estou cursando o bacharelado em Ciência e Tecnologia na UFRN (Universidade Federal do Rio Grande do Norte).
-- 🚀 Tenho o objetivo de seguir a ênfase de Engenharia da Computação em minha jornada acadêmica.
+- 🚀 Tenho o objetivo de seguir a ênfase de Engenharia da Computação em minha jornada acadêmica e me dedicar a Machine Learning, Redes Neurais e Inteligencia Artificial
 - 💻 Tenho experiência em desenvolvimento Front-end, Python, JavaScript e C++.
 - 🌟 Atualmente, estou focado no desenvolvimento em Java e Dart, com ênfase no framework Flutter.
 

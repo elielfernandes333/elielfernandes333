@@ -1,12 +1,18 @@
-### Olá, eu sou o Eliel Fernandes (eNiKov)
+# Olá, eu sou Eliel Fernandes Filho! 👋
 
--🎓 Science and Technology / Computer Engineering - UFRN 
+## Sobre Mim
+- 👨‍🎓 Atualmente estou cursando o bacharelado em Ciência e Tecnologia na UFRN (Universidade Federal do Rio Grande do Norte).
+- 🚀 Tenho o objetivo de seguir a ênfase de Engenharia da Computação em minha jornada acadêmica.
+- 💻 Tenho experiência em desenvolvimento Front-end, Python, JavaScript e C++.
+- 🌟 Atualmente, estou focado no desenvolvimento em Java e Dart, com ênfase no framework Flutter.
 
--👀 I’m studying front-end
-
--🐱‍👤 I'm learning Python
-
--🌱 I’m currently learning science data
+## Habilidades Técnicas
+- 💡 Java
+- 📱 Dart
+- 🔥 Flutter
+- 🌐 HTML, CSS, JavaScript
+- 🐍 Python
+- 🖥️ C++
 
 -📧 eliel.filho.705@ufrn.edu.br
 

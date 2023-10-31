@@ -1,17 +1,17 @@
-# Olá, eu sou Eliel Fernandes Filho! 
+# Hello, I'm Eliel Fernandes Filho!
 
-## Sobre Mim
-- Atualmente estou cursando o bacharelado em Ciência e Tecnologia na UFRN (Universidade Federal do Rio Grande do Norte).
-- Tenho o objetivo de seguir a ênfase de Engenharia da Computação em minha jornada acadêmica e me dedicar a Machine Learning, Redes Neurais e Inteligencia Artificial
-- Tenho experiência em desenvolvimento WEB (Front-end), Python, JavaScript e C++.
-- Atualmente, estou focado no desenvolvimento em Java, Dart e C++.
+## About me
+- I am currently studying my bachelor's degree in Science and Technology at UFRN.
+- I aim to follow the Computer Engineering emphasis in my academic journey and dedicate myself to Machine Learning, Neural Networks and Artificial Intelligence.
+- I have experience in WEB (Front-end), Python, JavaScript and C++ development.
+- Currently, I am focused on development in Java, Dart and C++.
 
-## Habilidades Técnicas
+## Technical abilities
 - Java
 - Dart
 - Flutter
 - HTML, CSS, JavaScript
-- Python
+-Python
 - C++
 
 -📧 eliel.filho.705@ufrn.edu.br

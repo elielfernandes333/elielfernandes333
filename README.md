@@ -15,7 +15,9 @@
 - HTML, CSS, JavaScript
 -Python
 - C++
-_SynthSlinger
+
+
+#####SynthSlinger
 
 -📧 eliel.filho.705@ufrn.edu.br
 

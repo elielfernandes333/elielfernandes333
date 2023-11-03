@@ -1,4 +1,6 @@
-# Hello, I'm Eliel Fernandes Filho!
+# Hello, I'm Eliel Fernandes
+
+
 
 ## About me
 - I am currently studying my bachelor's degree in Science and Technology at UFRN.
@@ -13,6 +15,7 @@
 - HTML, CSS, JavaScript
 -Python
 - C++
+_SynthSlinger
 
 -📧 eliel.filho.705@ufrn.edu.br
 

@@ -1,26 +1,34 @@
-# Hello, I'm Eliel Fernandes
+ <img width="100%" src="https://mutantreviewers.files.wordpress.com/2011/01/hackers-2.jpg"/>
+
+##
+
+<div align="center">
+  <a href="https://github.com/elielfernandes333/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=elielfernandes333&theme=black&include_all_commits=true&count_private=true"/>
+     <img height="150em" src="https://i.ytimg.com/vi/a5wdI83NZOw/maxresdefault.jpg"/>
+  <img height="150em" src="https://www.artofthetitle.com/assets/resized/sm/upload/q5/y0/o3/vj/still-cybercity-4-0-870-0-0.jpg?k=423114d11a"/>
+  
+</div>
+
+  ##
+  
+  <img align="right" height="153px" src="https://media.tenor.com/9Z4aF3ksVH0AAAAC/joey-gibson.gif" />
+
+```js
+import Developer from 'elielfernandes333';
+  
+  class SobreMim extends Developer {
+    name     = 'FILHO, eliel';
+    area    = 'web Development';
+    local = 'Brazil';
+  }
+```
+
+##
 
 
-
-## About me
-- I am currently studying my bachelor's degree in Science and Technology at UFRN.
-- I aim to follow the Computer Engineering emphasis in my academic journey and dedicate myself to Machine Learning, Neural Networks and Artificial Intelligence.
-- I have experience in WEB (Front-end), Python, JavaScript and C++ development.
-- Currently, I am focused on development in Java, Dart and C++.
-
-## Technical abilities
-- Java
-- Dart
-- Flutter
-- HTML, CSS, JavaScript
--Python
-- C++
-
-
-#####SynthSlinger
-
--📧 eliel.filho.705@ufrn.edu.br
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-fernandes-087ab016a/)
-![elielfernandes333's GitHub stats](https://github-readme-stats.vercel.app/api?username=elielfernandes333&show_icons=true&theme=dracula)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=elielfernandes333&layout=compact&theme=dracula)
+<div align="center">
+  <a href = "eliel.filho.705@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-E9D8D4?style=for-the-badge&logo=gmail&logoColor=9C3846" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eliel-filho-20819a27a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-E9D8D4?style=for-the-badge&logo=linkedin&logoColor=9C3846" target="_blank"></a>
+</div>
+  

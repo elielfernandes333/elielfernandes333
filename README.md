@@ -14,7 +14,7 @@ import Developer from 'elielfernandes333';
 <div align="center">
   <a href="https://github.com/elielfernandes333/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=elielfernandes333&theme=black&include_all_commits=true&count_private=true"/>
-  <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielferandes333&layout=compact)"
+  <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfernandes333&layout=compact)"
 </div>
 
 

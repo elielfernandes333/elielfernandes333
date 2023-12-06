@@ -20,11 +20,6 @@ import Developer from 'elielfernandes333';
   
 </div>
 
-  ##
-  
-
-##
-
 
 <div align="center">
   <a href = "eliel.filho.705@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-E9D8D4?style=for-the-badge&logo=gmail&logoColor=9C3846" target="_blank"></a>

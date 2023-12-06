@@ -10,11 +10,11 @@ import Developer from 'elielfernandes333';
  
  <img width="100%" src="https://images-prod.dazeddigital.com/900/azure/dazed-prod/1270/5/1275583.jpg"/>
 
-##
 
 <div align="center">
   <a href="https://github.com/elielfernandes333/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=elielfernandes333&theme=black&include_all_commits=true&count_private=true"/>
+  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=elielfernandes333&show_icons=true&theme=tokyonight"
 </div>
 
 

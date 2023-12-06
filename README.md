@@ -1,3 +1,13 @@
+```js
+import Developer from 'elielfernandes333';
+  
+  class SobreMim extends Developer {
+    name     = 'FILHO, eliel';
+    area    = 'web Development';
+    local = 'Brazil';
+  }
+```
+ 
  <img width="100%" src="https://i.ytimg.com/vi/a5wdI83NZOw/maxresdefault.jpg"/>
 
 ##

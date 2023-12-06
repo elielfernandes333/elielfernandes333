@@ -22,17 +22,6 @@ import Developer from 'elielfernandes333';
 
   ##
   
-  <img align="right" height="153px" src="https://media.tenor.com/9Z4aF3ksVH0AAAAC/joey-gibson.gif" />
-
-```js
-import Developer from 'elielfernandes333';
-  
-  class SobreMim extends Developer {
-    name     = 'FILHO, eliel';
-    area    = 'web Development';
-    local = 'Brazil';
-  }
-```
 
 ##
 

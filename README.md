@@ -2,9 +2,9 @@
 import Developer from 'elielfernandes333';
   
   class SobreMim extends Developer {
-    name     = 'FILHO, eliel';
+    name     = "FILHO, eliel";
     area    = 'web Development';
-    local = 'Brazil';
+    local = "Brazil";
     favLang = ["Python","Java","Dart"];
   }
 ```

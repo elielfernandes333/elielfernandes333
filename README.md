@@ -15,7 +15,7 @@ import Developer from 'elielfernandes333';
   </div>
 
 
-   <img align="center" height="300em" src="https://i.pinimg.com/originals/dc/d8/d7/dcd8d7968e54b4d5ef50ba66e37512fe.gif">
+   <img align="center" height="400em" src="https://i.pinimg.com/originals/dc/d8/d7/dcd8d7968e54b4d5ef50ba66e37512fe.gif">
 
 
 

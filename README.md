@@ -1,11 +1,10 @@
- <img width="100%" src="https://i.ytimg.com/vi/a5wdI83NZOw/maxresdefault.jpg"/>
+ <img width="100%" src="https://gameraboy2.tumblr.com/image/682939715158228992"/>
 
 #
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=elielfernandes333&include_all_commits=true&count_private=true"/>
     <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfernandes333&hide=javascript,html"/>
-     <img height="150em" src=""/>
   <img height="150em" src="https://www.artofthetitle.com/assets/resized/sm/upload/q5/y0/o3/vj/still-cybercity-4-0-870-0-0.jpg?k=423114d11a"/>
   
 </div>

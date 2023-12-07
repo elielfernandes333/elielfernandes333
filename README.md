@@ -9,16 +9,17 @@ import Developer from 'elielfernandes333';
     local = 'Brazil';
   }
 ```
-
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/?username=elielfernandes333&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfernandes333&hide=javascript,html"/>
-  
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=elielfernandes333&include_all_commits=true&count_private=true"/>
+  <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfernandes333&hide=javascript,html"/>
+  </div>
 
 
    <img align="center" height="300em" src="https://i.pinimg.com/originals/dc/d8/d7/dcd8d7968e54b4d5ef50ba66e37512fe.gif">
 
 
 
-
+<div align="center">
   <a align="center" href = "eliel.filho.705@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-E9D8D4?style=for-the-badge&logo=gmail&logoColor=000" target="_blank"></a>
   <a align="center" href="https://www.linkedin.com/in/eliel-filho-20819a27a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-E9D8D4?style=for-the-badge&logo=linkedin&logoColor=000" target="_blank"></a>
+</div>

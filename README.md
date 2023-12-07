@@ -13,13 +13,13 @@ import Developer from 'elielfernandes333';
 
 <div align="center">
   <a href="https://github.com/elielfernandes333/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=elielfernandes333&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=elielfernandes333&include_all_commits=true&count_private=true"/>
     <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfernandes333&hide=javascript,html"/>
 </div>
 
 
 <div align="center">
-  <a href = "eliel.filho.705@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-E9D8D4?style=for-the-badge&logo=gmail&logoColor=9C3846" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eliel-filho-20819a27a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-E9D8D4?style=for-the-badge&logo=linkedin&logoColor=9C3846" target="_blank"></a>
+  <a href = "eliel.filho.705@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-E9D8D4?style=for-the-badge&logo=gmail&logoColor=FFF" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eliel-filho-20819a27a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-E9D8D4?style=for-the-badge&logo=linkedin&logoColor=FFF" target="_blank"></a>
 </div>
   

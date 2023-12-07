@@ -19,7 +19,7 @@ import Developer from 'elielfernandes333';
 
 
 <div align="center">
-  <a href = "eliel.filho.705@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-E9D8D4?style=for-the-badge&logo=gmail&logoColor=FFF" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eliel-filho-20819a27a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-E9D8D4?style=for-the-badge&logo=linkedin&logoColor=FFF" target="_blank"></a>
+  <a href = "eliel.filho.705@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-E9D8D4?style=for-the-badge&logo=gmail&logoColor=000" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eliel-filho-20819a27a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-E9D8D4?style=for-the-badge&logo=linkedin&logoColor=000" target="_blank"></a>
 </div>
   

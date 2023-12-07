@@ -10,8 +10,8 @@ import Developer from 'elielfernandes333';
   }
 ```
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=elielfernandes333&include_all_commits=true&count_private=true"/>
-  <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfernandes333&hide=javascript,html"/>
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/?username=elielfernandes333&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielfernandes333&hide=javascript,html"/>
   
 
 

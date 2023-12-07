@@ -20,6 +20,6 @@ import Developer from 'elielfernandes333';
 
 
 <div align="center">
-  <a align="center" href = "eliel.filho.705@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-E9D8D4?style=for-the-badge&logo=gmail&logoColor=000" target="_blank"></a>
+  <a align="center" href = "mailto:eliel.filho.705@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-E9D8D4?style=for-the-badge&logo=gmail&logoColor=000" target="_blank"></a>
   <a align="center" href="https://www.linkedin.com/in/eliel-filho-20819a27a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-E9D8D4?style=for-the-badge&logo=linkedin&logoColor=000" target="_blank"></a>
 </div>

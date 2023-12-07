@@ -5,6 +5,7 @@ import Developer from 'elielfernandes333';
     name     = 'FILHO, eliel';
     area    = 'web Development';
     local = 'Brazil';
+    favLang = ["Python","Java","Dart"]
   }
 ```
  
